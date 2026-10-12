@@ -563,7 +563,7 @@ h2 {
     </div>
 
     <div class="footer">
-        Hecho con mucho cariño ♡
+        💙
     </div>
 
 </div>
