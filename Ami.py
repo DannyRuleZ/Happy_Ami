@@ -7,7 +7,7 @@ import streamlit.components.v1 as components
 # ==========================================
 
 st.set_page_config(
-    page_title="Feliz cumpleaños, Bry 🎂",
+    page_title="Feliz cumpleaños, Ami 🎂",
     page_icon="💖",
     layout="centered",
     initial_sidebar_state="collapsed"
@@ -44,28 +44,33 @@ st.markdown("""
 # PERSONALIZACIÓN DIRECTAMENTE EN EL CÓDIGO
 # ==========================================
 
-nombre = "Bry!"
+nombre = "Ami!"
 
-remitente = "Por mas dias de racha! 💖"
+remitente = "💙"
 
 mensaje = """
-¡Feliz cumpleaños, Bry! 🎂💖
+¡Feliz cumpleaños, Ami! 🎂💖
 
-Hoy es un día muy especial y quiero desearte
+Esta semana fue muy especial y quiero desearte
 toda la felicidad del mundo.
 
 Espero que cumplas con muchos años mas,
 que Diosito te bendiga, y la pases bonito
 en tu dia!
 
-Aunque no nos conozcamso quiero que sepas,
+Aunque no nos conozcamos mucho quiero que sepas,
 que aprecio muchísimo tu amistad. Gracias por
-ser una chica tan amable y tierna siempre!
+ser una chica tan amable y tierna siempre
 
 Nunca dejes de ser tú ni de brillar
 con esa luz tan bonita que te caracteriza. ✨
 
-¡Disfruta muchísimo tu día! 🎉
+Nose si alguna ves te alcance a decir pero, 
+admiro mucho todo lo que haces! eres una chica
+muy valiente y full inteligente, se que
+llegaras super lejos como eres!
+
+¡Disfruta muchísimo tu cumple! 🎉
 """
 
 # Proteger el contenido insertado en HTML
