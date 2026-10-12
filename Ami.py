@@ -513,7 +513,7 @@ h2 {
             </div>
 
             <p>
-                Hoy es un dia especial ✨
+                Esta semana fue muy especial ✨
             </p>
 
             <div class="from">
